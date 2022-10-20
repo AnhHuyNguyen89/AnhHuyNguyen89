@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.Js, MVC, JavaScript**
 
-- 📫 How to reach me **nguay089@mymail.unisa.edu.au**
+- 📫 How to reach me **huy3811nguyen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

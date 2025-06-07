@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anh Huy (Edward)</h1>
+<h1 align="center">Hi 👋, I'm Edward</h1>
 <h3 align="center">A guy who love to experience and explore the world</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anhhuynguyen89&label=Profile%20views&color=0e75b6&style=flat" alt="anhhuynguyen89" /> </p>
